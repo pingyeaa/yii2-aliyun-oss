@@ -1,0 +1,20 @@
+{
+    "name": "enochzg/yii2-aliyun-oss",
+    "type": "yii2-extension",
+    "keywords": ["yii2", "aliyun", "OSS", "helper"],
+    "description": "yii2-aliyun-oss",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "authors": [
+        {
+            "name": "EnochZg",
+            "email": "15989529532@163.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "enochzg\\aliyun\\": ""
+        }
+    }
+}
